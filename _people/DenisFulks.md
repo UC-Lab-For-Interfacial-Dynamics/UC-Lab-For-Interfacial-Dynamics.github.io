@@ -2,8 +2,8 @@
 title: "Denis Fulks"
 collection: people
 permalink: /people/denisfulks
-position: Intern
-start: may 2024
+position: BS Student
+start: May 2024
 end: August 2024
 order: 9
 author: Denis Fulks
