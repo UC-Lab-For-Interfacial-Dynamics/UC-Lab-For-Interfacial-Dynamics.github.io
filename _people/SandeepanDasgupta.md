@@ -14,7 +14,7 @@ excerpt: "<img src='/images/sandeepandasgupta.jpg' width='150' height='auto'>"
 Phase Change, Solidification-Melting, Optics, Cryo-surgery, Cryo-preservation, Bio-heat Transfer
 
 ### Education
-* M.S. in Mechanical Engineering, University of Cincinnati, 2021-present
+* M.S. in Mechanical Engineering, University of Cincinnati, 2021-2024
 * B.S. in Mechanical Engineering, SRM University, 2020
 
 ### Experience
