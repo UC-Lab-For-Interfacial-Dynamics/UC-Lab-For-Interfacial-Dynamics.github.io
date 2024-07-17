@@ -45,7 +45,7 @@
         {% elsif post.collection == 'research' %}
           <p>  </p>
         {% elsif post.collection == 'people' %}
-	  {% if post.position == 'PhD Alum %}
+	  {% if post.position == 'PhD Alum' %}
           <p> <i>{{ post.position}}</i>, {{ post.start | default: "1900-01-01" | start: "%Y" }} - {{ post.end | default: "current" }}.<br>  </p>
           {% endif %}
         {% elsif post.date %}
