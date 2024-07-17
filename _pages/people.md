@@ -41,7 +41,7 @@ redirect_from:
 ---
 
 ## Alumni:
-{% assign Alumpeople = site.people | where: "position", "Amumni" %}
+{% assign Alumpeople = site.people | where_exp: "people", "people.end < 2025" %}
 {% for post in Alumpeople %}
     {% include archive-single-people.html %}
 {% endfor %}
