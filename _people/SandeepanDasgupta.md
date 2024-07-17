@@ -2,7 +2,7 @@
 title: "Sandeepan Dasgupta"
 collection: people
 permalink: /people/sandeepandasgupta
-position: MS Student
+position: MS Alumni
 start: 2021
 end: 2024
 order: 7
