@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: "Principal Investigator"
 permalink: /people/
 author_profile: false
 redirect_from:
@@ -16,7 +16,7 @@ redirect_from:
 
 ---
 
-## PhD Students:
+## PhD Students
 {% assign PhDpeople = site.people | where: "position", "PhD Student" %}
 {% for post in PhDpeople %}
     {% include archive-single-people.html %}
@@ -24,7 +24,7 @@ redirect_from:
 
 ---
 
-## MS Students:
+## MS Students
 {% assign MSpeople = site.people | where: "position", "MS Student" %}
 {% for post in MSpeople %}
     {% include archive-single-people.html %}
@@ -32,7 +32,7 @@ redirect_from:
 
 ---
 
-## BS Students:
+## BS Students
 {% assign MSpeople = site.people | where: "position", "BS Student" %}
 {% for post in BSpeople %}
     {% include archive-single-people.html %}
@@ -40,7 +40,7 @@ redirect_from:
 
 ---
 
-## Alumni:
+## Alumni
 {% assign Alumpeople = site.people | where_exp: "people", "people.end < 2025" %}
 {% for post in Alumpeople %}
     {% include archive-single-people.html %}
