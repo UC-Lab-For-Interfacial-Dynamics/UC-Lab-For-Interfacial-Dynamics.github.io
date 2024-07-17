@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Principal Investigator"
+title: "People"
 permalink: /people/
 author_profile: false
 redirect_from:
@@ -33,16 +33,12 @@ redirect_from:
 ---
 
 ## BS Students
-{% assign MSpeople = site.people | where: "position", "BS Student" %}
+{% assign BSpeople = site.people | where: "position", "BS Student" %}
 {% for post in BSpeople %}
     {% include archive-single-people.html %}
 {% endfor %}
 
 ---
 
-## Alumni
-{% assign Alumpeople = site.people | where_exp: "people", "people.end < 2025" %}
-{% for post in Alumpeople %}
-    {% include archive-single-people.html %}
-{% endfor %}
+
 
