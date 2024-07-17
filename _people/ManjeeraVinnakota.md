@@ -2,7 +2,7 @@
 title: "Manjeera Vinnakota"
 collection: people
 permalink: /people/manjeeravinnakota
-position: PhD Student
+position: PhD Alumni
 start: 2016
 end: 2024
 order: 4
