@@ -11,9 +11,9 @@ title                    : "UCLID"
 title_separator          : "-"
 name                     : &name "Kishan Bellur"
 description              : &description "UC Lab for Interfacial Dynamics"
-url                      : https://kishanbellur.github.io
+url                      : https://UC-Lab-For-Interfacial-Dynamics.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kishanbellur/kishanbellur.github.io"
+repository               : "UC-Lab-For-Interfacial-Dynamics/UC-Lab-For-Interfacial-Dynamics.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
