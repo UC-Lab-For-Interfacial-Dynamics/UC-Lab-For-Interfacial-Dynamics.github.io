@@ -10,11 +10,9 @@ author: Sandeepan Dasgupta
 author_profile: true
 excerpt: "<img src='/images/sandeepandasgupta.jpg' width='150' height='auto'>"
 ---
-### Research Interests
-Phase Change, Solidification-Melting, Optics, Cryo-surgery, Cryo-preservation, Bio-heat Transfer
-
-### Thesis
-* Optical Transmission through Sessile Water Droplets Undergoing Solidification, and the Effect of Hydrophobicity
+### Research
+* Interests: Phase Change, Solidification-Melting, Optics, Cryo-surgery, Cryo-preservation, Bio-heat Transfer
+* Thesis: "Optical Transmission through Sessile Water Droplets Undergoing Solidification, and the Effect of Hydrophobicity"
 
 ### Education
 * M.S. in Mechanical Engineering, University of Cincinnati, 2024
