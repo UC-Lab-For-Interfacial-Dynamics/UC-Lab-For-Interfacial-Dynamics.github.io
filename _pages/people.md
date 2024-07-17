@@ -17,7 +17,7 @@ redirect_from:
 
 ## PhD Student:
 
-{% assign PhDpeople = site.people | map: 'PhD Student' %}
+{% assign PhDpeople = site.people | where: "position", "PhD Student" %}
 
 {% for post in PhDpeople %}
     {% include archive-single-people.html %}
