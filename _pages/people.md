@@ -41,12 +41,12 @@ redirect_from:
 ---
 
 ## Alumni
-{% assign AlumniPhDpeople = site.people | where: "position", "PhD Alumni" %}
+{% assign AlumniPhDpeople = site.people | where: "position", "PhD Alum" %}
 {% for post in AlumniPhDpeople %}
     {% include archive-single-people.html %}
 {% endfor %}
 
-{% assign AlumniMSpeople = site.people | where: "position", "MS Alumni" %}
+{% assign AlumniMSpeople = site.people | where: "position", "MS Alum" %}
 {% for post in AlumniMSpeople %}
     {% include archive-single-people.html %}
 {% endfor %}
