@@ -4,7 +4,7 @@ collection: people
 permalink: /people/manjeeravinnakota
 position: PhD Student
 start: 2016
-end: present
+end: 2024
 order: 4
 author: Manjeera Vinnakota
 author_profile: true
