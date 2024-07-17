@@ -15,3 +15,13 @@ redirect_from:
     {% include archive-single-people.html %}
   {% endfor %}
 
+## PhD Student:
+
+{% assign PhDpeople = site.people | map: 'PhD Student' %}
+
+{% for post in PhDpeople %}
+    {% include archive-single-people.html %}
+  {% endfor %}
+
+
+
