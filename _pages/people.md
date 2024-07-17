@@ -9,19 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-{% assign sortedpeople = site.people | sort: 'order' %}
-
-{% for post in sortedpeople %}
+{% assign PIpeople = site.people | where: "position", "Principal Investigator" %}
+{% for post in PIpeople %}
     {% include archive-single-people.html %}
-  {% endfor %}
+{% endfor %}
 
-## PhD Student:
+---
 
+## PhD Students:
 {% assign PhDpeople = site.people | where: "position", "PhD Student" %}
-
 {% for post in PhDpeople %}
     {% include archive-single-people.html %}
-  {% endfor %}
+{% endfor %}
 
+---
 
+## MS Students:
+{% assign MSpeople = site.people | where: "position", "MS Student" %}
+{% for post in MSpeople %}
+    {% include archive-single-people.html %}
+{% endfor %}
+
+---
+
+## BS Students:
+{% assign MSpeople = site.people | where: "position", "BS Student" %}
+{% for post in BSpeople %}
+    {% include archive-single-people.html %}
+{% endfor %}
+
+---
+
+## Alumni:
+{% assign Alumpeople = site.people | where: "position", "Amumni" %}
+{% for post in Alumpeople %}
+    {% include archive-single-people.html %}
+{% endfor %}
 
