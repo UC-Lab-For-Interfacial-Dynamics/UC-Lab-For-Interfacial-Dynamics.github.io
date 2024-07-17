@@ -4,7 +4,7 @@ collection: people
 permalink: /people/sandeepandasgupta
 position: MS Student
 start: 2021
-end: present
+end: 2024
 order: 7
 author: Sandeepan Dasgupta
 author_profile: true
