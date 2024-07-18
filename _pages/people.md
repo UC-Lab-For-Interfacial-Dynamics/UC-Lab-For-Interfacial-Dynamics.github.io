@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: "Principal Investigator"
 permalink: /people/
 author_profile: false
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Principal Investigator
 {% assign PIpeople = site.people | where: "position", "Principal Investigator" %}
 {% for post in PIpeople %}
     {% include archive-single-people.html %}
