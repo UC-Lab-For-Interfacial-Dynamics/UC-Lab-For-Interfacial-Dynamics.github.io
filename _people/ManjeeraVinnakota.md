@@ -8,7 +8,7 @@ end: 2024
 current: Ethicon (J&J MedTech)
 author: Manjeera Vinnakota
 author_profile: true
-excerpt: "<img src='/images/manjeeravinnakota.jpg' width='150' height='auto'>"
+[comment]: # excerpt: "<img src='/images/manjeeravinnakota.jpg' width='150' height='auto'>"
 ---
 ### Research
 * Interests: Multifunctional minimally invasive surgical instrumentation, micromanufacturing, additive manufacturing, specifically micro/nano 3DP, smart materials for miniaturization, computational fluid dynamics and numerical modeling.
