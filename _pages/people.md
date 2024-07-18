@@ -13,7 +13,7 @@ redirect_from:
 {% for post in PIpeople %}
     {% include archive-single-people.html %}
 {% endfor %}
-<br/> <br/>
+
 ---
 
 # PhD Students
@@ -21,7 +21,7 @@ redirect_from:
 {% for post in PhDpeople %}
     {% include archive-single-people.html %}
 {% endfor %}
-<br/> <br/>
+
 ---
 
 # MS Students
@@ -29,7 +29,7 @@ redirect_from:
 {% for post in MSpeople %}
     {% include archive-single-people.html %}
 {% endfor %}
-<br/><br/>
+
 ---
 
 # BS Students
@@ -37,7 +37,6 @@ redirect_from:
 {% for post in BSpeople %}
     {% include archive-single-people.html %}
 {% endfor %}
-<br/><br/>
 
 ---
 
