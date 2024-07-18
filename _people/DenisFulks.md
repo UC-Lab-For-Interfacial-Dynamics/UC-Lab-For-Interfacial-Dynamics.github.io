@@ -8,7 +8,7 @@ end: August 2024
 order: 9
 author: Denis Fulks
 author_profile: true
-excerpt: "<img src='/images/williamcullen.jpg' width='150' height='auto'>"
+[comment]: # excerpt: "<img src='/images/williamcullen.jpg' width='150' height='auto'>"
 ---
 ### Interests
 Sensor Designs and Calibration, Control Systems, CAD Modeling, 3D Printing
