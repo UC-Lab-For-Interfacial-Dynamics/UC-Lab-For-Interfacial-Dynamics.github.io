@@ -9,7 +9,7 @@ order: 8
 author: William Cullen
 author_profile: true
 [comment]: # excerpt: "<img src='/images/williamcullen.jpg' width='150' height='auto'>"
-excerpt: Lidenfrost Effect, Droplet Manipulation, Removal of Particulate Matter using Liquid Droplets
+excerpt: <font size="3"> Lidenfrost Effect, Droplet Manipulation, Removal of Particulate Matter using Liquid Droplets </font> 
 ---
 ### Research Interests
 Lidenfrost Effect, Droplet Manipulation, Removal of Particulate Matter using Liquid Droplets
