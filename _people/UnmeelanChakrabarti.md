@@ -8,7 +8,7 @@ order: 2
 author: Unmeelan Chakrabarti
 author_profile: true
 [comment]: # excerpt: "<img src='/images/unmeelanchakrabarti.jpg' width='150' height='auto'>"
-excerpt: Multiscale modeling of liquid-vapor phase change, CFD, Molecular dynamics
+excerpt: <font size="3"> Multiscale modeling of liquid-vapor phase change, CFD, Molecular Dynamics </font>
 ---
 ### Research Interests
 Multiscale liquid-vapor phase change, molecular dynamics.
