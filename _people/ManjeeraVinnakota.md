@@ -5,7 +5,7 @@ permalink: /people/manjeeravinnakota
 position: PhD Alum
 start: 2016
 end: 2024
-order: 4
+current: Ethicon (J&J MedTech)
 author: Manjeera Vinnakota
 author_profile: true
 excerpt: "<img src='/images/manjeeravinnakota.jpg' width='150' height='auto'>"
