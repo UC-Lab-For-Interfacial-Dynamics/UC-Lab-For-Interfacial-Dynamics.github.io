@@ -9,7 +9,7 @@ order: 9
 author: Denis Fulks
 author_profile: true
 [comment]: # excerpt: "<img src='/images/williamcullen.jpg' width='150' height='auto'>"
-excerpt: Sensor Design and Calibration, Control Systems, CAD Modeling, 3D Printing
+excerpt: <font size="3"> Sensor Design and Calibration, Control Systems, CAD Modeling, 3D Printing </font>
 ---
 ### Interests
 Sensor Design and Calibration, Control Systems, CAD Modeling, 3D Printing
