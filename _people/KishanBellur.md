@@ -8,9 +8,10 @@ order: 1
 author: Kishan Bellur
 author_profile: true
 [comment]: # excerpt: "<img src='/images/kb_crop.jpg' width='150' height='auto'>"
-excerpt: 10+ years of experience in phase change heat transfer, cryogenics and scientific computing
+[comment]: # excerpt: 10+ years of experience in phase change heat transfer, cryogenics and scientific computing
 ---
-## Principal Investigator
+### Interests
+Prof. Bellur's is primarily interested in multi-scale modeling and visualization of transport phenomena at (1) micro-/nano- scales, (2) cryogenic temperatures, and (3) reduced-gravity. Other interests include, but are not limited to, capillary phenomena, micro-scale thermophysics, cryogenic heat and mass transfer, two-phase flow, optical characterization, interferometry, surface plasmon resonance imaging, image processing, computational fluid dynamics, molecular dynamics, scientific and high performance computing. Prof. Bellur is also passionate about teaching emphasizing on "hands-on" active learning, data analysis and communication and integrated thermo-fluid-sciences. In his spare time, he likes to sample new cuisines, test new recipes and explore the outdoors by any self propelled means possible - walk, bike, ski or run.
 
 ### Education
 * B.S. in Mechanical Engineering, *Milwaukee School of Engineering*, 2013
@@ -23,9 +24,6 @@ excerpt: 10+ years of experience in phase change heat transfer, cryogenics and s
 | Adjunct Assistant Professor  | Michigan Technological University | 01/2021 - Present |
 | Visiting Assistant Professor | Manhattan College                 | 01/2021 – 08/2021 |
 | Postdoctoral Scholar         | Michigan Tech / U. Michigan       | 10/2018 – 01/2021 |
-
-### Interests
-Prof. Bellur's is primarily interested in multi-scale modeling and visualization of transport phenomena at (1) micro-/nano- scales, (2) cryogenic temperatures, and (3) reduced-gravity. Other interests include, but are not limited to, capillary phenomena, micro-scale thermophysics, cryogenic heat and mass transfer, two-phase flow, optical characterization, interferometry, surface plasmon resonance imaging, image processing, computational fluid dynamics, molecular dynamics, scientific and high performance computing. Prof. Bellur is also passionate about teaching emphasizing on "hands-on" active learning, data analysis and communication and integrated thermo-fluid-sciences. In his spare time, he likes to sample new cuisines, test new recipes and explore the outdoors by any self propelled means possible - walk, bike, ski or run.
 
 ### Honors and awards
 * CAREER award, *National Science Foundation*, 2024
