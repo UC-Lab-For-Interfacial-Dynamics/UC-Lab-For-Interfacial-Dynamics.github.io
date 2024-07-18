@@ -16,7 +16,7 @@ redirect_from:
 
 ---
 
-## PhD Students
+# PhD Students
 {% assign PhDpeople = site.people | where: "position", "PhD Student" %}
 {% for post in PhDpeople %}
     {% include archive-single-people.html %}
@@ -24,7 +24,7 @@ redirect_from:
 
 ---
 
-## MS Students
+# MS Students
 {% assign MSpeople = site.people | where: "position", "MS Student" %}
 {% for post in MSpeople %}
     {% include archive-single-people.html %}
@@ -32,7 +32,7 @@ redirect_from:
 
 ---
 
-## BS Students
+# BS Students
 {% assign BSpeople = site.people | where: "position", "BS Student" %}
 {% for post in BSpeople %}
     {% include archive-single-people.html %}
@@ -40,7 +40,7 @@ redirect_from:
 
 ---
 
-## Alumni
+# Alumni
 {% assign AlumniPhDpeople = site.people | where: "position", "PhD Alum" %}
 {% for post in AlumniPhDpeople %}
     {% include archive-single-people.html %}
