@@ -14,7 +14,6 @@ redirect_from:
     {% include archive-single-people.html %}
 {% endfor %}
 <br/> <br/>
-
 ---
 
 # PhD Students
@@ -23,7 +22,6 @@ redirect_from:
     {% include archive-single-people.html %}
 {% endfor %}
 <br/> <br/>
-
 ---
 
 # MS Students
@@ -32,7 +30,6 @@ redirect_from:
     {% include archive-single-people.html %}
 {% endfor %}
 <br/><br/>
-
 ---
 
 # BS Students
