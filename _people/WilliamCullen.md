@@ -8,7 +8,7 @@ end: present
 order: 8
 author: William Cullen
 author_profile: true
-excerpt: "<img src='/images/williamcullen.jpg' width='150' height='auto'>"
+[comment]: # excerpt: "<img src='/images/williamcullen.jpg' width='150' height='auto'>"
 ---
 ### Research Interests
 Lidenfrost Effect, Droplet Manipulation, Removal of Particulate Matter using Liquid Droplets
