@@ -8,7 +8,7 @@ end: 2024
 order: 7
 author: Sandeepan Dasgupta
 author_profile: true
-excerpt: "<img src='/images/sandeepandasgupta.jpg' width='150' height='auto'>"
+[comment]: # excerpt: "<img src='/images/sandeepandasgupta.jpg' width='150' height='auto'>"
 ---
 ### Research
 * Interests: Phase Change, Solidification-Melting, Optics, Cryo-surgery, Cryo-preservation, Bio-heat Transfer
