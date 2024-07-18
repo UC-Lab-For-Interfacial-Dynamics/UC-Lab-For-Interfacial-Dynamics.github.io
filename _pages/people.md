@@ -20,7 +20,7 @@ redirect_from:
 {% assign PhDpeople = site.people | where: "position", "PhD Student" %}
 {% for post in PhDpeople %}
     {% include archive-single-people.html %}
-{% endfor %}
+{% endfor %}  
 
 ---
 
@@ -28,7 +28,7 @@ redirect_from:
 {% assign MSpeople = site.people | where: "position", "MS Student" %}
 {% for post in MSpeople %}
     {% include archive-single-people.html %}
-{% endfor %}
+{% endfor %}  
 
 ---
 
@@ -36,7 +36,7 @@ redirect_from:
 {% assign BSpeople = site.people | where: "position", "BS Student" %}
 {% for post in BSpeople %}
     {% include archive-single-people.html %}
-{% endfor %}
+{% endfor %}  
 
 ---
 
