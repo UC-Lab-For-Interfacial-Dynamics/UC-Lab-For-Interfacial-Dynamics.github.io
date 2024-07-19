@@ -14,7 +14,6 @@ excerpt: <font size="3"> PhD Dissertation, "Design and Investigation of a Hydrau
 ### Research
 * Interests: Multifunctional minimally invasive surgical instrumentation, micromanufacturing, additive manufacturing, specifically micro/nano 3DP, smart materials for miniaturization, computational fluid dynamics and numerical modeling.
 * Dissertation: "Design and Investigation of a Hydraulic Milli-Actuator for Minimally Invasive Medical Applications".
-* Journal papers published: 3. 
 
 ### Education
 * PhD in Mechanical Engineering, University of Cincinnati, 2024
