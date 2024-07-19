@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /kishanbellur.github.io
 ---
 
 The [University of Cincinnati](https://www.uc.edu/) Lab for Interfacial Dynamics (UCLID) is an interdisciplinary laboratory with experimental and computational capabilities to explore transport mechanics at curved liquid-vapor interfaces such as drops, bubbles, sprays, etc. The lab is housed in [Mechanical and Materials Engineering](https://ceas.uc.edu/academics/departments/mechanical-materials-engineering.html) and is led by [Prof. Kishan Bellur](https://researchdirectory.uc.edu/p/bellurkn). 
